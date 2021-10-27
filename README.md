@@ -1,6 +1,6 @@
 ### Huawei Lin
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table>
         <tr>
             <td>
 			<div style="height:60px;width:500px; float:left;">
