@@ -4,7 +4,7 @@
         <tr>
             <td width="30%">
 			<div style="height:10px;width:50px; float:left;">
-				<img src="http://huaweilin.net/wp-content/uploads/2021/08/20210803.jpg" alt="" width="50%" height="50%" />
+				<img src="http://huaweilin.net/wp-content/uploads/2021/08/20210803.jpg" alt="" width="100%" height="100%" />
 				</div>
             </td>
             <td width="70%">
