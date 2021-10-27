@@ -3,12 +3,12 @@
     <table style="margin-left: auto; margin-right: auto;" width="10">
         <tr>
             <td>
-			<div style="height:60px;width:500px; float:left;">
-				<img src="http://huaweilin.net/wp-content/uploads/2021/08/20210803.jpg" alt="" width="30%" height="30%" class="alignleft  wp-image-105" />
+			<div style="height:60px;width:50px; float:left;">
+				<img src="http://huaweilin.net/wp-content/uploads/2021/08/20210803.jpg" alt="" width="30%" height="30%" class="alignleft size-full  wp-image-105" />
 				</div>
             </td>
             <td>
-			<div style="height:60px;width:2000px; float:right;">
+			<div style="height:60px;width:20px; float:right;">
 			<font size="3px" color="black">&emsp;&emsp;<b>Huawei Lin / 林华伟</b></font><br/>
 			<font size="3px">&emsp;&emsp;IEEE Student Member</font><br/>
 			<font size="3px">&emsp;&emsp;Bachelor of Computer Science and Technology ( <i>July 2021</i> )</font><br/>
