@@ -1,4 +1,24 @@
 ### Huawei Lin
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+			<div style="height:150px;width:140px;">
+				<img src="http://huaweilin.net/wp-content/uploads/2021/08/20210803.jpg" alt="" width="100%" height="100%" class="alignleft size-full wp-image-105" />
+				</div>
+            </td>
+            <td>
+			<div style="height:160px;width:500px; float:left;">
+			<font size="3px" color="black">&emsp;&emsp;<b>Huawei Lin / 林华伟</b></font><br/>
+			<font size="3px">&emsp;&emsp;IEEE Student Member</font><br/>
+			<font size="3px">&emsp;&emsp;Bachelor of Computer Science and Technology ( <i>July 2021</i> )</font><br/>
+			<font size="3px"  color="blue">&emsp;&emsp;huaweilin.cs AT gmail.com</font><br/>
+			<font size="3px">&emsp;&emsp;<a target="_blank" href="https://github.com/huawei-lin" rel="noopener" style="color:#2E86C1;">GitHub</a>    ◊    <a target="_blank" href="https://winsoul.blog.csdn.net/" rel="noopener" style="color:#2E86C1;">CSDN Blog</a>    ◊    <a target="_blank" href="https://drive.google.com/file/d/18xKzvnbkC4ZS7h3TAZIDJ3zHus1fwi6l/view?usp=sharing" rel="noopener" style="color:#2E86C1;">CV</a> </font>
+			</div>
+            </td>
+        </tr>
+    </table>
+</html>
 
 I am currently working as an intern of research assistant at the Institute of Computer Vision (ICV), Shenzhen University (CS ranked **68th worldwide** by USNews2020), and supervised by Prof.  [<font color="blue">Linlin Shen</font>](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl=en&oi=ao) (**Honorary Professor** at University of Nottingham, UK).
 
