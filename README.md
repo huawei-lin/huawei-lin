@@ -2,12 +2,12 @@
 <html>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
-            <td width="30%">
+            <td width="20%">
 			<div style="height:60px;width:50px; float:left;">
 				<img src="http://huaweilin.net/wp-content/uploads/2021/08/20210803.jpg" alt="" width="100%" height="100%" />
 				</div>
             </td>
-            <td width="70%">
+            <td width="80%">
 			<div style="height:60px;width:20px; float:right;">
 			<font size="3px" color="black">&emsp;&emsp;<b>Huawei Lin / 林华伟</b></font><br/>
 			<font size="3px">&emsp;&emsp;IEEE Student Member</font><br/>
