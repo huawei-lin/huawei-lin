@@ -26,4 +26,4 @@ I am currently working as an intern of research assistant at the Institute of Co
 
 I just got the bachelor's degree in Computer Science and Technology in July 2021, and I am looking a **Master** or **Direct PhD** position (CS-related, 22 Fall). My research interests span <b>Biometrics, Security, Trustworthy Machine Learning (Interpretability & Explainability)</b>. I am the leader of a project funded by <b>National Ministry of Education of the China</b> for undergraduates in 2019. In my period of undergraduate, I have received an <b>ACM-ICPC Asia Bronze Medal</b> in the ACM-ICPC International Collegiate Programming Contest, and a <b>Silver Medal</b> in the ACM-ICPC Shaanxi Province Contest of China.
 
-<font color="#CD0000">I am looking for a **Master** or **Direct PhD** position (CS-related, 22 Fall). Please email me if you are interested. (Aug. 10, 2021)</font>
+<font color="red">I am looking for a **Master** or **Direct PhD** position (CS-related, 22 Fall). Please email me if you are interested. (Aug. 10, 2021)</font>
