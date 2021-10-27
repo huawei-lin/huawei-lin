@@ -3,7 +3,7 @@
     <table style="margin-left: auto; margin-right: auto;" width="10">
         <tr>
             <td>
-			<div style="height:60px;width:50px; float:left;">
+			<div style="height:10px;width:50px; float:left;">
 				<img src="http://huaweilin.net/wp-content/uploads/2021/08/20210803.jpg" alt="" width="30%" height="30%" class="alignleft size-full  wp-image-105" />
 				</div>
             </td>
