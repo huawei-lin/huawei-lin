@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![huaweilin's github stats](https://github-readme-stats.vercel.app/api?username=huawei-lin&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huawei-lin)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **huawei-lin/huawei-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
