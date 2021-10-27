@@ -8,7 +8,7 @@
 				</div>
             </td>
             <td>
-			<div style="height:800px;width:20px; float:left;">
+			<div style="height:60px;width:20px; float:left;">
 			<font size="3px" color="black">&emsp;&emsp;<b>Huawei Lin / 林华伟</b></font><br/>
 			<font size="3px">&emsp;&emsp;IEEE Student Member</font><br/>
 			<font size="3px">&emsp;&emsp;Bachelor of Computer Science and Technology ( <i>July 2021</i> )</font><br/>
