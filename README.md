@@ -45,7 +45,9 @@ I just got the bachelor's degree in Computer Science and Technology in July 2021
 ### Publications & Patents
 - Yong Qi\*, **Huawei Lin**, *et. al.*, Parameter-free Attention in fMRI Decoding, *IEEE Access*, DOI: [<font color="blue">10.1109/ACCESS.2021.3068921</font>](https://ieeexplore.ieee.org/document/9386094), 2021.
 - Yong Qi\*, Yanping Li,  **Huawei Lin**, *et. al.*, Research on Gender-related Fingerprint Features, *arXiv preprint*,  [<font color="blue">arXiv:2108.08233</font>](https://arxiv.org/abs/2108.08233), 2021.
+
 </br>
+
 - Task fMRI brain decoding and visualization method based on convolutional neural network, [<font color="blue">CN111681292A</font>](https://worldwide.espacenet.com/patent/search?q=pn%3DCN111681292A), 2020.
 - Ceramic ornamentation extraction method based on convolutional neural network and image processing, [<font color="blue">CN111814550A</font>](https://worldwide.espacenet.com/patent/search?q=pn%3DCN111814550A), 2020.
 - Method for measuring pore radius in porous material scanning electron microscope image, [<font color="blue">CN111024581A</font>](https://worldwide.espacenet.com/patent/search?q=pn%3DCN111024581A), 2019.
