@@ -13,7 +13,7 @@
 			<font size="3px">&emsp;&emsp;IEEE Student Member</font><br/>
 			<font size="3px">&emsp;&emsp;Bachelor of Computer Science and Technology ( <i>July 2021</i> )</font><br/>
 			<font size="3px"  color="blue">&emsp;&emsp;huaweilin.cs AT gmail.com</font><br/>
-			<font size="3px">&emsp;&emsp;<a target="_blank" href="https://github.com/huawei-lin" rel="noopener" style="color:#2E86C1;">GitHub</a>    ◊    <a target="_blank" href="https://winsoul.blog.csdn.net/" rel="noopener" style="color:#2E86C1;">CSDN Blog</a>    ◊    <a target="_blank" href="https://drive.google.com/file/d/18xKzvnbkC4ZS7h3TAZIDJ3zHus1fwi6l/view?usp=sharing" rel="noopener" style="color:#2E86C1;">CV</a>    ◊    <a target="_blank" href="https://huaweilin.net/" rel="noopener" style="color:#2E86C1;">HomePage</a> </font>
+			<font size="3px">&emsp;&emsp;<a target="_blank" href="https://github.com/huawei-lin" rel="noopener" style="color:#2E86C1;">GitHub</a>    ◊    <a target="_blank" href="https://winsoul.blog.csdn.net/" rel="noopener" style="color:#2E86C1;">CSDN Blog</a>    ◊    <a target="_blank" href="https://drive.google.com/file/d/18xKzvnbkC4ZS7h3TAZIDJ3zHus1fwi6l/view?usp=sharing" rel="noopener" style="color:#2E86C1;">CV</a>    ◊    <a target="_blank" href="https://huaweilin.net/" rel="noopener" style="color:#2E86C1;">HomePage</a>    ◊    <a target="_blank" href="https://scholar.google.com/citations?user=I7IRPbcAAAAJ&hl=en&oi=ao" rel="noopener" style="color:#2E86C1;">Google Scholar</a></font>
 			</div>
             </td>
         </tr>
