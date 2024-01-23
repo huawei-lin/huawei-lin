@@ -1,4 +1,4 @@
 **Visit My HomePage: https://huaweilin.net/**
 
-## Ongoing Project
+## Ongoing Projects
 - About LLMs
