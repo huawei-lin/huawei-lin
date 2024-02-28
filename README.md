@@ -2,3 +2,4 @@
 
 ## Ongoing Projects
 - About LLMs
+- Diffusion Models
