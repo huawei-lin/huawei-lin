@@ -1,5 +1,8 @@
 **Visit My HomePage: https://huaweilin.net/** &ensp; <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="30" alt="clap"> 
 
+> [!NOTE]
+> **Apr. 16, 2024: I will join Amazon as an applied scientist intern in this summer!**<br />
+
 ## Ongoing Projects
 - About LLMs
 - Diffusion Models
@@ -9,9 +12,6 @@
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-
-> [!NOTE]
-> **Apr. 16, 2024: I will join Amazon as an applied scientist intern in this summer!**<br />
 
 
 ## GitHub status
