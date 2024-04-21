@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 
-## GitHub status
+## GitHub Status
 
 ![Huawei Lin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huawei-lin&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huawei-lin&layout=compact&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&langs_count=8)
