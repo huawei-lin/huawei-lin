@@ -16,7 +16,7 @@
 
 ## GitHub Status
 
-![Huawei Lin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huawei-lin&show_icons=true)
+![Huawei Lin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huawei-lin&show_icons=true&hide_rank=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huawei-lin&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=huawei-lin.github.io,Brain_Decoding_Analysis)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=huaweilin&layout=compact)
