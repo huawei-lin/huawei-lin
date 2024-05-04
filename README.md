@@ -1,7 +1,7 @@
 **Visit My HomePage: https://huaweilin.net/** &ensp; <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="30" alt="clap"> 
 
 > [!NOTE]
-> **Apr. 16, 2024: I will join Amazon as an applied scientist intern in this summer!**<br />
+> **Apr. 16, 2024: I will be joining Amazon as an Applied Scientist Intern in Boston this summer, focusing on large language models and multimodal systems. 🎉🎉🎉**<br />
 
 ## Ongoing Projects
 - About LLMs
