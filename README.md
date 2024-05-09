@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://huaweilin.net/)
 
 ## Open-source AI systems
-We launched a team dedicated to building open-source AI systems. For more information, please visit us at [DynamonAI](https://dynamonai.com).
+We launched a team dedicated to building **open-source** AI systems. For more information, please visit us at [DynamonAI](https://dynamonai.com).
 
 ## GitHub Status
 
