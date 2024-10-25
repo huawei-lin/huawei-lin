@@ -1,7 +1,9 @@
 **Visit My HomePage: https://huaweilin.net/** &ensp; <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="30" alt="clap"> 
 
 > [!IMPORTANT]
-> **<font color="red">🔥 I am actively looking for research internship opportunities in Large Language Models, Computer Vision and Machine Learning for the summer of 2025. <b>More research experience and papers (under review) can be found at my <a href="https://drive.google.com/file/d/18xKzvnbkC4ZS7h3TAZIDJ3zHus1fwi6l/view?usp=sharing">CV</a>.</b></font><br>**<br />
+> **<font color="red">🔥 I am actively looking for research internship opportunities in Large Language Models, Computer Vision and Machine Learning for the summer of 2025. <b>More research experience and papers (under review) can be found at my <a href="https://drive.google.com/file/d/18xKzvnbkC4ZS7h3TAZIDJ3zHus1fwi6l/view?usp=sharing">CV</a>.</b></font>**<br />
+
+<font color="red">🔥 I am actively looking for research internship opportunities in Large Language Models, Computer Vision and Machine Learning for the summer of 2025. <b>More research experience and papers (under review) can be found at my <a href="https://drive.google.com/file/d/18xKzvnbkC4ZS7h3TAZIDJ3zHus1fwi6l/view?usp=sharing">CV</a>.</b></font>
 
 ## Ongoing Projects
 - About LLMs
